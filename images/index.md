@@ -7,4 +7,4 @@
 ![AzurLane.jpg](https://github.com/NoMeansNowastaken/NoMeansNowastaken.github.io/raw/main/images/azurlane.jpg)
 
 ### Gifs:
-![osu.gif](https://github.com/NoMeansNowastaken/NoMeansNowastaken.github.io/raw/main/images/osu.gif) [//]: # (16 mb lmao)
+![osu.gif](https://github.com/NoMeansNowastaken/NoMeansNowastaken.github.io/raw/main/images/osu.gif)
